@@ -1,24 +1,8 @@
 # Elie Ruggiero
 
-## Curriculum vitæ
+@[Curriculum vitæ](./subpages/cv.md)
 
-### Profile
+Developer in Turing-complete multi-paradigm programming languages
 
-* Elie Ruggiero
-* 2007
+Second-year student in a university degree program
 
-### Education
-
-* Baccalauréat Général (2025)
-  * spécialités mathématiques et NSI (mathematics and computer science)
-  * options mathématiques expertes, théâtre (advanced mathematics & drama class)
-* Classe préparatoire MP2I (2025-2026)
-
-### Hobbies
-
-* Computer Science
-  * Hardware architecte
-  * Software architecte
-  * Operating Systems
-* Music
-  * Guitar player (since 2014)
